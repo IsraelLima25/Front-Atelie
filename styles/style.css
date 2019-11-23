@@ -1,0 +1,57 @@
+html {
+    font-size: 1rem;
+  }
+
+.titulo-principal{ 
+    font-family: 'Pacifico', cursive;
+    color: #8D0606;
+    font-size: 25px;
+}
+
+nav{    
+    border-bottom:  solid #8D0606 3px;       
+}
+
+.imagem-carrossel {
+    object-fit:cover; 
+    object-position: 0 20%;
+    height: 400px;
+  }
+
+  .titulo-carousel{
+    font-family: 'Pacifico', cursive;
+    color: #ffffff;    
+    font-size: 35px;
+   
+  }
+
+  .texto-cor{
+    font-family: 'Pacifico', cursive;
+    color: #8D0606;
+  }
+
+  .borda-cor-especial {
+    border-color: #8D0606;
+  }
+
+  .btn-cor-especial{
+      background-color: #8D0606;
+      color: white;
+  }
+  .card-imagem {
+    width: 18rem;
+    object-fit:cover;
+    object-position: 0 60%;
+  }
+  
+  .thumb-redondo {
+    border-radius:50%; 
+    width:250px; 
+    height:250px; 
+    object-fit:cover; 
+    object-position: 0 60%; 
+  }
+
+
+
+

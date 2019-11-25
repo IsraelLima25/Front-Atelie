@@ -52,9 +52,22 @@ nav{
     object-position: 0 60%; 
   }
 
-  .card{
-    background-color: #8D0606;
+  @media (max-width: 425px) {
+
+    #formulario{
+      margin-top: 30px;        
+    }
   }
+
+  @media (max-width: 768px) {
+
+    .thumb-redondo{
+      width:200px; 
+      height:200px; 
+    }
+}
+
+
 
 
 
